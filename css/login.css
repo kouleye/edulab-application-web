@@ -1,0 +1,42 @@
+/*------------ici page login-----------------*/
+#container{
+    width:400px ;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+#container h1{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
+.formulaire{
+    width: 100%;
+    padding:30px;
+    border:1px solid #f1f1f1;
+    background:#fff ;
+    box-shadow: 0 0 20px 0 rgba(000, 000,000, 0.2),0 5px 5px 0 rgba(000, 000,000, 0.25);
+}
+
+.zonetext{
+    background-color: rgba(236, 240, 243, 0.666);
+    color:rgb(16, 22, 21);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 90%;
+}
+.submit{
+    background-color:  blueviolet;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
+.submit:hover{
+    background-color: white;
+    color:  blueviolet;
+    border:1px solid blueviolet;
+}
